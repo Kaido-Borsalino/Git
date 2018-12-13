@@ -1,0 +1,4 @@
+# Git
+Rappel sur les règles de git ainsi que des commandes terminal
+
+C'est très bien d'avoir un fichier à modifier pour vérifier toutes nos informations.
